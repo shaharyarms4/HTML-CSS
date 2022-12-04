@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#heading {
+    margin-top: 0;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 90px;
+    margin-bottom: 0;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.sub {
+    font-family: 'Montserrat', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+.boss {
+    background-color: #C3F8FF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 325px;
+} 
+
+#me {
+    width: 200px;
+    margin-top: 30px;
+}
+
+.skills-img {
+    width: 200px;
+}
+
+hr {
+    width: 15%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+}
+
+.middle-container {
+    background-color: #EFFFFD;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skills-img{
+    width: 25%;
+}
+
+#screen{
+    float: left;
+    margin-right: 30px;
+}
+
+#stock{
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    padding-bottom: 20px;
+}
+
+#btn1 {
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #C3F8FF;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#btn1:hover {
+    background-color: #EFFFFD;
+    cursor: pointer;
+}
+
+.bottom-container {
+    background-color: #85F4FF;
+    padding-top: 20px;
+}
+
+.footer-img {
+    width: 40px;
+}
+
+#stupid {
+    margin-bottom: 0;
+}
+
+#lol {
+    margin-right: 10px;
+}
+
+#lol1 {
+    margin-left: 10px;
+}
